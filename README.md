@@ -14,7 +14,7 @@
 
 ---
 
-Finance engineer + BI grad. Working in AI-native benefits workspace at [Pasito](https://www.pasito.ai). I come from quantitative finance, moved into data analytics, and now spend a lot of time building things — financial tools, full-stack apps, automation pipelines.
+Finance engineer + BI grad. Working in AI-native benefits workspace at [Pasito](https://pasito.ai/). I come from quantitative finance, moved into data analytics, and now spend a lot of time building things — financial tools, full-stack apps, automation pipelines.
 
 Currently working through **React → Next.js → AWS**. The repos are getting less Jupyter-notebook-shaped over time.
 
