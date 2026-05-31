@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergiobk201)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-barrientos-442727208/)
 &nbsp;
 ![Brazil](https://img.shields.io/badge/Brazil-🇧🇷-white?style=flat-square)
 
@@ -14,7 +14,7 @@
 
 ---
 
-Finance engineer + BI grad. Working in AI-native benefits workspace at [Pasito](https://www.pasito.co). I come from quantitative finance, moved into data analytics, and now spend a lot of time building things — financial tools, full-stack apps, automation pipelines.
+Finance engineer + BI grad. Working in AI-native benefits workspace at [Pasito](https://www.pasito.ai). I come from quantitative finance, moved into data analytics, and now spend a lot of time building things — financial tools, full-stack apps, automation pipelines.
 
 Currently working through **React → Next.js → AWS**. The repos are getting less Jupyter-notebook-shaped over time.
 
