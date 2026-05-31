@@ -66,15 +66,11 @@ Currently working through **React → Next.js → AWS**. The repos are getting l
 
 ---
 
-### GitHub Stats
+### Currently working on
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sergiobk201&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobk201&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
-</div>
+- 📐 Learning React + Next.js systematically
+- ☁️ Building on AWS (Lambda, S3, Supabase)
+- 📊 ML systems and AI engineering (Chip Huyen's books)
 
 ---
 
